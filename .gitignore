@@ -1,5 +1,5 @@
 .jupyter/
 .local/
 .npm/
+.ipynb_checkpoints
 coursier
-
